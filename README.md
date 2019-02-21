@@ -1,0 +1,2 @@
+# GoogleAppsScript_GAS_BacklogAPI_informSlack
+BacklogのAPIを利用して、指定したプロジェクトの課題の中で、未完了の期限切れ課題をSlackのチャネルに通知する
